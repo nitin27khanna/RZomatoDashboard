@@ -1,5 +1,5 @@
 # RZomatoDashboard
-This is an exploratory data analysis of Zomato ratings of restaurants
+This is an data analysis of Zomato ratings of restaurants and data has been taken from a repository on Kaggle
 
 >To begin the analysis, some wordclouds are presented to see what kind of locations are there in the dataset.Wordclouds are easy way to begin a presentation with a good impact and to give an first and easy way to visualize text data.
     - First Wordcloud is for various locations on which Zomato Operates.
